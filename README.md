@@ -46,3 +46,5 @@ pdfLeftMargin:20<BR>
 escape:'true'<BR>
 htmlContent:'false'<BR>
 consoleLog:'false' <BR>
+## FYI
+http://jackyrong.iteye.com/blog/2169683
